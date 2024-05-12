@@ -1,0 +1,14 @@
+H:\latest .NET\BankingManagementSolution\BankingManagement\bin\Debug\net6.0\BankingManagement.exe
+H:\latest .NET\BankingManagementSolution\BankingManagement\bin\Debug\net6.0\BankingManagement.deps.json
+H:\latest .NET\BankingManagementSolution\BankingManagement\bin\Debug\net6.0\BankingManagement.runtimeconfig.json
+H:\latest .NET\BankingManagementSolution\BankingManagement\bin\Debug\net6.0\BankingManagement.dll
+H:\latest .NET\BankingManagementSolution\BankingManagement\bin\Debug\net6.0\BankingManagement.pdb
+H:\latest .NET\BankingManagementSolution\BankingManagement\obj\Debug\net6.0\BankingManagement.GeneratedMSBuildEditorConfig.editorconfig
+H:\latest .NET\BankingManagementSolution\BankingManagement\obj\Debug\net6.0\BankingManagement.AssemblyInfoInputs.cache
+H:\latest .NET\BankingManagementSolution\BankingManagement\obj\Debug\net6.0\BankingManagement.AssemblyInfo.cs
+H:\latest .NET\BankingManagementSolution\BankingManagement\obj\Debug\net6.0\BankingManagement.csproj.CoreCompileInputs.cache
+H:\latest .NET\BankingManagementSolution\BankingManagement\obj\Debug\net6.0\BankingManagement.dll
+H:\latest .NET\BankingManagementSolution\BankingManagement\obj\Debug\net6.0\refint\BankingManagement.dll
+H:\latest .NET\BankingManagementSolution\BankingManagement\obj\Debug\net6.0\BankingManagement.pdb
+H:\latest .NET\BankingManagementSolution\BankingManagement\obj\Debug\net6.0\BankingManagement.genruntimeconfig.cache
+H:\latest .NET\BankingManagementSolution\BankingManagement\obj\Debug\net6.0\ref\BankingManagement.dll
