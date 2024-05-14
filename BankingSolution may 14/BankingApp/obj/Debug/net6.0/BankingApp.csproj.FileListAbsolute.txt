@@ -1,0 +1,15 @@
+H:\latest .NET\BankingSolution\BankingApp\bin\Debug\net6.0\BankingApp.exe
+H:\latest .NET\BankingSolution\BankingApp\bin\Debug\net6.0\BankingApp.deps.json
+H:\latest .NET\BankingSolution\BankingApp\bin\Debug\net6.0\BankingApp.runtimeconfig.json
+H:\latest .NET\BankingSolution\BankingApp\bin\Debug\net6.0\BankingApp.dll
+H:\latest .NET\BankingSolution\BankingApp\bin\Debug\net6.0\BankingApp.pdb
+H:\latest .NET\BankingSolution\BankingApp\obj\Debug\net6.0\BankingApp.GeneratedMSBuildEditorConfig.editorconfig
+H:\latest .NET\BankingSolution\BankingApp\obj\Debug\net6.0\BankingApp.AssemblyInfoInputs.cache
+H:\latest .NET\BankingSolution\BankingApp\obj\Debug\net6.0\BankingApp.AssemblyInfo.cs
+H:\latest .NET\BankingSolution\BankingApp\obj\Debug\net6.0\BankingApp.csproj.CoreCompileInputs.cache
+H:\latest .NET\BankingSolution\BankingApp\obj\Debug\net6.0\BankingApp.sourcelink.json
+H:\latest .NET\BankingSolution\BankingApp\obj\Debug\net6.0\BankingApp.dll
+H:\latest .NET\BankingSolution\BankingApp\obj\Debug\net6.0\refint\BankingApp.dll
+H:\latest .NET\BankingSolution\BankingApp\obj\Debug\net6.0\BankingApp.pdb
+H:\latest .NET\BankingSolution\BankingApp\obj\Debug\net6.0\BankingApp.genruntimeconfig.cache
+H:\latest .NET\BankingSolution\BankingApp\obj\Debug\net6.0\ref\BankingApp.dll
